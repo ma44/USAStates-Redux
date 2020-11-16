@@ -1,7 +1,8 @@
+
 supply_area={
 	id=367
 	name="Upper Peninsula"
-	value=12
+	value=20
 	states={
 		1021 
 	}
